@@ -19,7 +19,7 @@ public class Student {
         System.out.println("Age of student: " + age);
     }
 
-    // Example usage
+    
     public static void main(String[] args) {
         Student s = new Student();
         s.name = "HARSH A CHINMALLI";
